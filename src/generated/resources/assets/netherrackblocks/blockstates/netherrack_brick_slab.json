@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "netherrackblocks:block/netherrack_brick_slab"
+    },
+    "type=double": {
+      "model": "netherrackblocks:block/netherrack_bricks"
+    },
+    "type=top": {
+      "model": "netherrackblocks:block/netherrack_brick_slab_top"
+    }
+  }
+}

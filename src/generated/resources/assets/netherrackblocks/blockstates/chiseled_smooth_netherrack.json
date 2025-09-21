@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "netherrackblocks:block/chiseled_smooth_netherrack_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "netherrackblocks:block/chiseled_smooth_netherrack"
+    },
+    "axis=z": {
+      "model": "netherrackblocks:block/chiseled_smooth_netherrack_horizontal",
+      "x": 90
+    }
+  }
+}

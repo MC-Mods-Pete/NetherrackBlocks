@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "netherrackblocks:smooth_netherrack"
+    }
+  ],
+  "result": {
+    "item": "netherrackblocks:smooth_netherrack_button"
+  }
+}

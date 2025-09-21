@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "polished_netherrack",
+  "ingredient": {
+    "item": "minecraft:netherrack"
+  },
+  "result": "netherrackblocks:smooth_netherrack"
+}

@@ -1,0 +1,15 @@
+{
+  "values": [
+    "netherrackblocks:netherrack_stairs",
+    "netherrackblocks:netherrack_slab",
+    "netherrackblocks:netherrack_pressure_plate",
+    "netherrackblocks:chiseled_smooth_netherrack",
+    "netherrackblocks:smooth_netherrack",
+    "netherrackblocks:smooth_netherrack_stairs",
+    "netherrackblocks:smooth_netherrack_slab",
+    "netherrackblocks:smooth_netherrack_pressure_plate",
+    "netherrackblocks:netherrack_bricks",
+    "netherrackblocks:netherrack_brick_stairs",
+    "netherrackblocks:netherrack_brick_slab"
+  ]
+}

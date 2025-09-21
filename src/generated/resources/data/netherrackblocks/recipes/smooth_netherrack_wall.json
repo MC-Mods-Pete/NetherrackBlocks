@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "W": {
+      "item": "netherrackblocks:smooth_netherrack"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WWW"
+  ],
+  "result": {
+    "count": 6,
+    "item": "netherrackblocks:smooth_netherrack_wall"
+  },
+  "show_notification": true
+}

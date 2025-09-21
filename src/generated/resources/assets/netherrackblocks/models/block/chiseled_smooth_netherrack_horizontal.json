@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "netherrackblocks:block/chiseled_smooth_netherrack_top",
+    "side": "netherrackblocks:block/chiseled_smooth_netherrack"
+  }
+}

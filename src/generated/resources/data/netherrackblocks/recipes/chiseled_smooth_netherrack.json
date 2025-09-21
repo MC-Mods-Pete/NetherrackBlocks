@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "W": {
+      "item": "netherrackblocks:smooth_netherrack_slab"
+    }
+  },
+  "pattern": [
+    "W",
+    "W"
+  ],
+  "result": {
+    "item": "netherrackblocks:chiseled_smooth_netherrack"
+  },
+  "show_notification": true
+}
